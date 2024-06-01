@@ -15,13 +15,13 @@ This research explores the efficacy of leveraging molecular structure modeling t
 To begin, clone the repository:
 
 ```
-git clone https://github.com/anonymousoxford2024/Computational-Medicine-Exam.git
+git clone https://github.com/anna-charlotte/cardiotoxicity-prediction.git
 ```
 
 Or via SSH:
 
 ```
-git clone git@github.com:anonymousoxford2024/Computational-Medicine-Exam.git
+git clone git@github.com:anna-charlotte/cardiotoxicity-prediction.git
 ```
 
 Next, create a virtual environment using Python version 3.9.6.
